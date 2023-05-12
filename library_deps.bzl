@@ -49,8 +49,8 @@ BATFISH_MAVEN_ARTIFACTS = [
     "org.apache.tomcat.embed:tomcat-embed-core:8.5.82",  # managed up 2022-08-23 for CVEs
     "org.codehaus.jettison:jettison:1.5.4",
     "io.github.java-diff-utils:java-diff-utils:4.12",
-    "org.glassfish.grizzly:grizzly-http-server:2.4.4",
-    "org.glassfish.grizzly:grizzly-framework:2.4.4",
+    "org.glassfish.grizzly:grizzly-http-server:4.0.0",
+    "org.glassfish.grizzly:grizzly-framework:4.0.0",
     "org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.39.1",
     "org.glassfish.jersey.core:jersey-client:2.39.1",
     "org.glassfish.jersey.core:jersey-common:2.39.1",
