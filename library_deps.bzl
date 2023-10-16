@@ -46,7 +46,7 @@ BATFISH_MAVEN_ARTIFACTS = [
     "org.apache.logging.log4j:log4j-api:2.20.0",
     "org.apache.logging.log4j:log4j-core:2.20.0",
     "org.apache.logging.log4j:log4j-slf4j-impl:2.20.0",
-    "org.apache.tomcat.embed:tomcat-embed-core:8.5.82",  # managed up 2022-08-23 for CVEs
+    "org.apache.tomcat.embed:tomcat-embed-core:8.5.95",  # managed up 2022-08-23 for CVEs
     "org.codehaus.jettison:jettison:1.5.4",
     "io.github.java-diff-utils:java-diff-utils:4.12",
     "org.glassfish.grizzly:grizzly-http-server:2.4.4",
