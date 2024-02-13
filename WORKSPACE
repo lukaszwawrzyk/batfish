@@ -76,9 +76,9 @@ jmh_pinned_maven_install()
 
 http_archive(
     name = "rules_python",
-    sha256 = "b593d13bb43c94ce94b483c2858e53a9b811f6f10e1e0eedc61073bd90e58d9c",
-    strip_prefix = "rules_python-0.12.0",
-    url = "https://github.com/bazelbuild/rules_python/archive/refs/tags/0.12.0.tar.gz",
+    sha256 = "c68bdc4fbec25de5b5493b8819cfc877c4ea299c0dcb15c244c5a00208cde311",
+    strip_prefix = "rules_python-0.31.0",
+    url = "https://github.com/bazelbuild/rules_python/archive/refs/tags/0.31.0.tar.gz",
 )
 
 load("@rules_python//python:repositories.bzl", "python_register_toolchains")
